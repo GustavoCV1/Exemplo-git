@@ -1,2 +1,4 @@
+<!Docktype html>
+
 Arquivo de Teste
 Fiz uma alteração
