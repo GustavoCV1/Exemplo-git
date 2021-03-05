@@ -1,4 +1,7 @@
+<!-- DTD = Document Type Definition 
+! -->
 <!Docktype html>
+<html>
+</html>
 
-Arquivo de Teste
-Fiz uma alteração
+
